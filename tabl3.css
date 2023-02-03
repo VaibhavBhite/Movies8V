@@ -1,0 +1,13 @@
+table{
+    font-style: oblique;
+    color: rgb(140, 165, 42);
+    border-collapse:collapse;
+    
+}
+caption{
+    color: rgb(255, 94, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+tr{
+    font-style: calc();
+}
